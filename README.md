@@ -1,2 +1,2 @@
 # CS50x
-CS50x Problem Sets 2019/2020
+Solutions to Harvard's CS50x Introduction to Computer Science Course Problem Sets (2019/2020)
